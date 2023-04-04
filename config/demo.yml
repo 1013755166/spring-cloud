@@ -3,3 +3,4 @@ spring:
     name: demo
 server:
   port: 1222
+foo: version111
